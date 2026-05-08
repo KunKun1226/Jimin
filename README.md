@@ -38,8 +38,8 @@ A few things make her useful:
 
 ```mermaid
 flowchart LR
-    I["Inputs<br/><sub>viewport, reference, your words</sub>"]
-    J["Jimin<br/><sub>conversation</sub>"]
+    I["Inputs"]
+    J["Jimin"]
     O["Image"]
     
     I --> J
