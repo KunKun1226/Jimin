@@ -57,7 +57,7 @@ or the conversation, render again.
 
 ## Download
 
-Latest builds live under [Releases](https://github.com/KunKun1226/Jimin/releases).
+Latest builds live under [Releases](https://github.com/atel-studio/Jimin/releases).
 
 Currently a Windows desktop app. Mac and public builds will arrive when 
 they're ready.
